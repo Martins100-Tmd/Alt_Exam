@@ -20,6 +20,12 @@ const AB = () => {
       <p className="font-rob font-semibold text-center w-full rounded shadow p-3">
         Martins Olumide😊✌✌✌
       </p>
+      <a
+        className="font-rob uppercase text-blue-300 text-center text-sm self-center shadow p-2 rounded"
+        href="https://github.com/Martins100-Tmd/Alt_Exam"
+      >
+        https://github.com/Martins100-Tmd/Alt_Exam
+      </a>
     </div>
   );
 };
